@@ -1,0 +1,16 @@
+{
+  "Messages":{
+    "ClosedEnv" : "Merry Christmas!",
+    "OpenEnv" : "You have:"
+  },
+  "AmountSource":{
+    "remote":{
+      "URL":"https://www.jsonstore.io/(id)/amount"
+    },
+    "local":{
+      "amount":"50.00"
+    },
+    "currency":"$",
+    "selected":"local"
+  }
+}
